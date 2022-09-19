@@ -1,0 +1,33 @@
+.container {
+  width: 16rem;
+  background-image: radial-gradient(
+    circle at 50% -20.71%,
+    #f4deff 0,
+    #c7a3f1 25%,
+    #c8b5f2 50%,
+    #aca2ec 75%,
+    #8c91e7 100%
+  );
+  border-radius: 1.5rem;
+}
+
+.container-two {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+.error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 14rem;
+  color: blue;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  padding: 1rem;
+  text-align: center;
+}

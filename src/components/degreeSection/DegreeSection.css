@@ -1,0 +1,17 @@
+.seccion__one {
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 700;
+  color: purple;
+}
+
+.span {
+  color: yellow;
+}
+
+.seccion__two {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: blueviolet;
+  margin-bottom: 1.5rem;
+}
